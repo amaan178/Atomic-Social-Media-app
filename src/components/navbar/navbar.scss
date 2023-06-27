@@ -1,4 +1,7 @@
+@import "../../style.scss";
+
 .navbar {
+  @include themify($themes) {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -61,4 +64,5 @@
         }
       }
     }
+  }
 }
