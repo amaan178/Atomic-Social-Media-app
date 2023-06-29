@@ -61,6 +61,10 @@
         align-items: center;
         gap: 32px;
 
+        @include mobile {
+          gap: 16px;
+        }
+
         .item {
           display: flex;
           align-items: center;
