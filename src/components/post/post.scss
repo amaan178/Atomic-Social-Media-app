@@ -38,6 +38,7 @@
 
             .date {
               font-size: 12px;
+              line-height: 25px;
             }
           }
         }
@@ -45,6 +46,7 @@
 
       .content {
         margin: 20px 0px;
+        line-height: 23px;
 
         img {
           width: 100%;
@@ -57,12 +59,12 @@
       .info {
         display: flex;
         align-items: center;
-        gap: 20px;
+        gap: 32px;
 
         .item {
           display: flex;
           align-items: center;
-          gap: 10px;
+          gap: 4px;
           cursor: pointer;
           font-size: 14px;
         }
