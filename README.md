@@ -7,16 +7,16 @@ Social media website design using React, HTML, and CSS. React social media app u
 ## Screenshots
 
 ### 1. Login 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 ### 2. Register
-![Alt text](image-4.png)
+![Alt text](images/image-4.png)
 
 ### 3. Light mode
-![Alt text](image-3.png)
+![Alt text](images/image-3.png)
 
 ### 4. Dark mode with comments
-![Alt text](image-2.png)
+![Alt text](images/image-2.png)
 
 ### 5. Profile
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
